@@ -8,7 +8,7 @@ export default function Home() {
 
 
   return (
-    <div className='bg-[#448D76]'>
+    <div className='bg-green-100'>
       
 
       <nav className='flex text-xl h-20 justify-between w-full bg-[#093426] shadow-lg'>
