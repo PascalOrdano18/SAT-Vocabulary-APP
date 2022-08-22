@@ -81,12 +81,6 @@ export const QuizMC = () => {
                 option4[1](newWord)
             }
         })
-
-
- 
-
-
-
         setNewCorrectWord(correctWord)
         setNewDefinition(correctDefinition)
         setOrder(Math.floor(Math.random() * 4))
@@ -99,18 +93,19 @@ export const QuizMC = () => {
   return (
     <>
 
-        <h1 className="text-black mx-auto text-2xl">Points: {points}</h1>
+        <h1 className="text-black mx-auto text-3xl md:text-4xl mt-10">POINTS: {points}</h1>
 
 
-        <div className="grid grid-cols-2 w-full mx-auto max-w-[1000px]">
-            <button onClick={ handleInput } className="bg-[#093426] text-[#79BEA8] w-fit hover:animate-pulse mx-auto px-20 py-5 rounded-lg m-5 hover:bg-[#448D76] hover:text-[#093426] border-[#093426] border-2 hover:px-24 transition-all">  { order === 0 ? newCorrectWord : option1[0] } </button>
-            <button onClick={ handleInput } className="bg-[#093426] text-[#79BEA8] w-fit hover:animate-pulse mx-auto px-20 py-5 rounded-lg m-5 hover:bg-[#448D76] hover:text-[#093426] border-[#093426] border-2 hover:px-24 transition-all"> { order === 1 ? newCorrectWord : option2[0] } </button>
-            <button onClick={ handleInput } className="bg-[#093426] text-[#79BEA8] w-fit hover:animate-pulse mx-auto px-20 py-5 rounded-lg m-5 hover:bg-[#448D76] hover:text-[#093426] border-[#093426] border-2 hover:px-24 transition-all"> { order === 2 ? newCorrectWord : option3[0] } </button>
-            <button onClick={ handleInput } className="bg-[#093426] text-[#79BEA8] w-fit hover:animate-pulse mx-auto px-20 py-5 rounded-lg m-5 hover:bg-[#448D76] hover:text-[#093426] border-[#093426] border-2 hover:px-24 transition-all"> { order === 3 ? newCorrectWord : option4[0] } </button>
+        <div className="grid grid-cols-1 md:grid-cols-2 text-lg md:text-2xl w-full mt-10 mx-auto max-w-[1000px]">
+            <button onClick={ handleInput } className="bg-[#093426] text-[#79BEA8] w-64 py-3 md:w-96 md:py-6 lg:py-10 hover:animate-pulse mx-auto rounded-lg sm:mt-8 hover:bg-[#448D76] hover:text-[#093426] border-[#093426] border-2 transition-all">  { order === 0 ? newCorrectWord : option1[0] } </button>
+            <button onClick={ handleInput } className="bg-[#093426] text-[#79BEA8] w-64 py-3 md:w-96 md:py-6 lg:py-10 hover:animate-pulse mx-auto rounded-lg mt-8    hover:bg-[#448D76] hover:text-[#093426] border-[#093426] border-2 transition-all"> { order === 1 ? newCorrectWord : option2[0] } </button>
+            <button onClick={ handleInput } className="bg-[#093426] text-[#79BEA8] w-64 py-3 md:w-96 md:py-6 lg:py-10 hover:animate-pulse mx-auto rounded-lg mt-8    hover:bg-[#448D76] hover:text-[#093426] border-[#093426] border-2 transition-all"> { order === 2 ? newCorrectWord : option3[0] } </button>
+            <button onClick={ handleInput } className="bg-[#093426] text-[#79BEA8] w-64 py-3 md:w-96 md:py-6 lg:py-10 hover:animate-pulse mx-auto rounded-lg mt-8    hover:bg-[#448D76] hover:text-[#093426] border-[#093426] border-2 transition-all"> { order === 3 ? newCorrectWord : option4[0] } </button>
         </div>
 
-
-        <h1 className="flex mt-10 mx-auto text-2xl text-black">{ newDefinition }</h1>
+        <div className="flex mx-10">
+            <h1 className="flex mt-10 md:mt-20 mx-auto text-2xl md:text-4xl text-[#23483C]">{ newDefinition }</h1>
+        </div>
 
         
         

@@ -11,7 +11,7 @@ export default function Input (){
                 <title>SAT - INPUT</title>
                 <meta name="viewport" content="initial-scale=1.0, width=device-width" />
              </Head>
-            <div className="w-screen h-screen flex flex-col bg-[#448D76]">
+            <div className="w-screen h-full min-h-screen flex flex-col bg-[#448D76]">
 
                 <div className="mx-auto mt-12 max-w-[740px]">
                     <h1 className="mx-auto text-6xl w-fit underline">Input Quiz</h1>
