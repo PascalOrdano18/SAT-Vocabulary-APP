@@ -1,0 +1,408 @@
+{
+    "unit5":  {
+
+        "Make Me!": [
+          {
+            "definition": "to persuade by using flattery",
+            "word": "cajole"
+          },
+          {
+            "definition": "to urge strongly",
+            "word": "exhort"
+          },
+          {
+            "definition": "to persuade through the use of force",
+            "word": "coerce"
+          },
+          {
+            "definition": "to cause",
+            "word": "induce"
+          },
+          {
+            "definition": "to persuade by using flattery",
+            "word": "coax"
+          },
+          {
+            "definition": "to stir up; to excite",
+            "word": "provoke"
+          },
+          {
+            "definition": "required",
+            "word": "obligatory"
+          },
+          {
+            "definition": "to influence by flattery",
+            "word": "wheedle"
+          },
+          {
+            "definition": "to urge into action",
+            "word": "goad"
+          },
+          {
+            "definition": "to give in to something reluctantly",
+            "word": "begrudge"
+          },
+          {
+            "definition": "to goad into action",
+            "word": "spur"
+          },
+          {
+            "definition": "a requirement",
+            "word": "prerequisite"
+          },
+          {
+            "definition": "accepting of one’s fate",
+            "word": "resigned"
+          }
+        ],
+
+        "Come to Your Senses!": [
+            {
+              "definition": "able to be sensed by touch",
+              "word": "tactile"
+            },
+            {
+              "definition": "relating to the sense of smell",
+              "word": "olfactory"
+            },
+            {
+              "definition": "relating to the sense of taste",
+              "word": "gustatory"
+            },
+            {
+              "definition": "relating to the sense of hearing",
+              "word": "auditory"
+            },
+            {
+              "definition": "to perceive as separate; to sense keenly",
+              "word": "discern"
+            },
+            {
+              "definition": "having a sharp or irritating odor",
+              "word": "pungent"
+            },
+            {
+              "definition": "detectable by touch",
+              "word": "palpable"
+            },
+            {
+              "definition": "to learn for certain",
+              "word": "ascertain"
+            },
+            {
+              "definition": "pleasant tasting; appetizing",
+              "word": "savory"
+            },
+            {
+              "definition": "rotten; having a foul odor",
+              "word": "putrid"
+            },
+            {
+              "definition": "short-sightedness",
+              "word": "myopic"
+            },
+            {
+              "definition": "to become aware",
+              "word": "perceive"
+            },
+            {
+              "definition": "relating to the sense of hearing",
+              "word": "aural"
+            },
+            {
+              "definition": "detectable by touch; substantial",
+              "word": "tangible"
+            }
+        ],
+
+        "Stop It!": [
+          {
+            "definition": "to stop something before it is able to succeed",
+            "word": "thwart"
+          },
+          {
+            "definition": "to refrain from action",
+            "word": "abstain"
+          },
+          {
+            "definition": "something that acts to discourage",
+            "word": "deterrent"
+          },
+          {
+            "definition": "to slow the progress of, to block",
+            "word": "impede"
+          },
+          {
+            "definition": "to slow the progress of",
+            "word": "hinder"
+          },
+          {
+            "definition": "to make less",
+            "word": "curtail"
+          },
+          {
+            "definition": "something that works to impede progress; a hindrance",
+            "word": "impediment"
+          },
+          {
+            "definition": "to present an obstacle to",
+            "word": "stymie"
+          },
+          {
+            "definition": "to persuade not to do something",
+            "word": "dissuade"
+          },
+          {
+            "definition": "to hold back from doing",
+            "word": "refrain"
+          },
+          {
+            "definition": "the voluntary avoidance of something",
+            "word": "abstinence"
+          },
+          {
+            "definition": "uncertain",
+            "word": "tentative"
+          },
+          {
+            "definition": "to restrict the progress of",
+            "word": "hamper"
+          },
+          {
+            "definition": "sparing or moderate in consumption",
+            "word": "abstemious"
+          }
+        ],
+
+        "Must Be the Money": [
+          {
+            "definition": "completely penniless",
+            "word": "destitute"
+          },
+          {
+            "definition": "economical; good with money",
+            "word": "frugal"
+          },
+          {
+            "definition": "payment for services",
+            "word": "remuneration"
+          },
+          {
+            "definition": "without money",
+            "word": "impecunious"
+          },
+          {
+            "definition": "failing to provide for the future",
+            "word": "improvident"
+          },
+          {
+            "definition": "excessive thriftiness",
+            "word": "parsimony"
+          },
+          {
+            "definition": "able to be bribed",
+            "word": "venal"
+          },
+          {
+            "definition": "economical; good with money",
+            "word": "thrifty"
+          },
+          {
+            "definition": "an extremely poor individual",
+            "word": "pauper"
+          },
+          {
+            "definition": "one who gives his services to the highest bidder",
+            "word": "mercenary"
+          },
+          {
+            "definition": "payment or privilege received in addition to wages",
+            "word": "perquisite"
+          },
+          {
+            "definition": "bankrupt",
+            "word": "insolvent"
+          },
+          {
+            "definition": "impoverished, poor",
+            "word": "indigent"
+          },
+          {
+            "definition": "pertaining to money",
+            "word": "pecuniary"
+          }
+        ],
+        "Saw That Coming": [
+          {
+            "definition": "a prediction of the future",
+            "word": "prophecy"
+          },
+          {
+            "definition": "a precursor",
+            "word": "harbinger"
+          },
+          {
+            "definition": "to predict the future",
+            "word": "augur"
+          },
+          {
+            "definition": "a forewarning",
+            "word": "premonition"
+          },
+          {
+            "definition": "to give advance warning",
+            "word": "portend"
+          },
+          {
+            "definition": "having knowledge of future events",
+            "word": "prescient"
+          },
+          {
+            "definition": "a sign of something to come",
+            "word": "omen"
+          },
+          {
+            "definition": "the ability to see things coming",
+            "word": "foresight"
+          },
+          {
+            "definition": "one with great foresight",
+            "word": "clairvoyant"
+          },
+          {
+            "definition": "an omen of a future event",
+            "word": "portent"
+          },
+          {
+            "definition": "to block by acting first",
+            "word": "preempt"
+          },
+          {
+            "definition": "to plan ahead of time",
+            "word": "premeditate"
+          },
+          {
+            "definition": "able to tell the future",
+            "word": "prophetic"
+          },
+          {
+            "definition": "to be an omen for something",
+            "word": "bode"
+          }
+        ],
+        "Old and Worn Out": [
+          {
+            "definition": "ancient",
+            "word": "archaic"
+          },
+          {
+            "definition": "an object from an ancient time",
+            "word": "relic"
+          },
+          {
+            "definition": "worn out from old age or use",
+            "word": "decrepit"
+          },
+          {
+            "definition": "obsolete; outdated",
+            "word": "antiquated"
+          },
+          {
+            "definition": "very old",
+            "word": "antediluvian"
+          },
+          {
+            "definition": "no longer in existence",
+            "word": "defunct"
+          },
+          {
+            "definition": "to keep from dying out",
+            "word": "perpetuate"
+          },
+          {
+            "definition": "out of fashion; obsolete",
+            "word": "outmoded"
+          },
+          {
+            "definition": "an object of historical interest",
+            "word": "artifact"
+          },
+          {
+            "definition": "outmoded",
+            "word": "obsolete"
+          },
+          {
+            "definition": "worn out",
+            "word": "dilapidated"
+          },
+          {
+            "definition": "shabby; worn down such that the threads show",
+            "word": "threadbare"
+          },
+          {
+            "definition": "a collection of historically interesting material",
+            "word": "archive"
+          }
+        ],
+        "Feelings": [
+          {
+            "definition": "lack of feeling; lack of interest",
+            "word": "apathy"
+          },
+          {
+            "definition": "anxious about what is to come",
+            "word": "apprehensive"
+          },
+          {
+            "definition": "repentant",
+            "word": "contrite"
+          },
+          {
+            "definition": "to mourn, to show sorrow",
+            "word": "lament"
+          },
+          {
+            "definition": "to comfort",
+            "word": "console"
+          },
+          {
+            "definition": "lacking emotion",
+            "word": "impassive"
+          },
+          {
+            "definition": "humiliation; shame",
+            "word": "ignominy"
+          },
+          {
+            "definition": "pity; feeling of sorrow",
+            "word": "pathos"
+          },
+          {
+            "definition": "the ability to identify with another’s feelings",
+            "word": "empathy"
+          },
+          {
+            "definition": "feeling remorse for one’s actions",
+            "word": "penitent"
+          },
+          {
+            "definition": "having mixed feelings toward something",
+            "word": "ambivalent"
+          },
+          {
+            "definition": "causing a sharp emotional response",
+            "word": "poignant"
+          },
+          {
+            "definition": "regret for past deeds",
+            "word": "remorse"
+          },
+          {
+            "definition": "strong feelings against something",
+            "word": "antipathy"
+          }
+        ]
+    }
+
+}
+  
