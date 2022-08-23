@@ -23,7 +23,7 @@ export default function Input (){
 
 
                 <Link className="hover:cursor-pointer" href='/'>
-                    <a className=" text-[#093426] py-3 px-12 rounded-full w-fit mx-auto sm:mt-10 mt-20 border-2 border-[#093426] transition-all hover:px-24">Go Home</a>
+                    <a className=" text-[#093426] py-3 px-12 rounded-full w-fit mx-auto mt-5 sm:mt-20 border-2 border-[#093426] transition-all hover:px-24">Go Home</a>
                 </Link>
             </div>
             

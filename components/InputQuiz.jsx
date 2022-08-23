@@ -70,7 +70,7 @@ export const InputQuiz = () => {
             <h1 className="flex mx-auto text-2xl md:text-4xl text-[#23483C]">Points: {points}</h1>
         </div>
 
-        <form onSubmit={ onSubmit } aria-label="form" className="mx-auto w-fit my-10 sm:mt-20" >
+        <form onSubmit={ onSubmit } aria-label="form" className="mx-auto w-fit my-8 sm:mt-20" >
             <input 
             className="border-[#086948] bg-[#E7F3EF] text-black border-2  rounded h-10 px-5 focus:px-10 transition-all focus:border-4 focus:border-[#23483C] outline-none" 
             type="text"
@@ -82,7 +82,7 @@ export const InputQuiz = () => {
 
 
         <div className="flex mx-10">
-            <h1 className="flex mt-10 sm:mt-10 mx-auto text-2xl md:text-4xl text-[#23483C]">
+            <h1 className="flex mt-0 sm:mt-20 mx-auto text-2xl md:text-4xl text-[#23483C]">
                 {newDefinition.charAt(0).toUpperCase() + newDefinition.slice(1)}
             </h1>
         </div>
