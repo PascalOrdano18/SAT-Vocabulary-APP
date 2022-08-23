@@ -28,7 +28,7 @@ export const WordList = () => {
 
       <form onSubmit={ onSubmit } aria-label="form" className="mx-auto w-fit my-10" >
         <input 
-            className="border-[#086948] bg-[#E7F3EF] border-2 rounded h-10 px-5 focus:px-10 transition-all focus:border-4 focus:border-[#23483C] outline-none" 
+            className="border-[#086948] bg-[#E7F3EF] text-black border-2 rounded h-10 px-5 focus:px-10 transition-all focus:border-4 focus:border-[#23483C] outline-none" 
             type="text"
             placeholder="🔎 Search for words..."
             value={ searchTerm }

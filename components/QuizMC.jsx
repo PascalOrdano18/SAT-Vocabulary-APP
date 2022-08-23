@@ -93,7 +93,7 @@ export const QuizMC = () => {
   return (
     <>
 
-        <h1 className="text-black mx-auto text-3xl md:text-4xl mt-10">POINTS: {points}</h1>
+        <h1 className="text-black mx-auto text-3xl md:text-4xl mt-6 sm:mt-10">POINTS: {points}</h1>
 
 
         <div className="grid grid-cols-1 md:grid-cols-2 text-lg md:text-2xl w-full mt-10 mx-auto max-w-[1000px]">
